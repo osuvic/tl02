@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-latex": "^2.4.4"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,14 +20,5 @@
   "bugs": {
     "url": "https://github.com/osuvic/tl02/issues"
   },
-  "homepage": "https://github.com/osuvic/tl02#readme",
-  "dependencies": {
-    "express": "^4.16.4",
-    "node-latex": "^2.4.4"
-  },
-  "engines": {
-    "node": "10.13.0"
-  }
-  "devDependencies": {},
-  "keywords": []
+  "homepage": "https://github.com/osuvic/tl02#readme"
 }
