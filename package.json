@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/osuvic/tl02/issues"
   },
-  "homepage": "https://github.com/osuvic/tl02#readme"
+  "homepage": "https://github.com/osuvic/tl02#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-latex": "^2.4.4"
+  },
+  "devDependencies": {},
+  "keywords": []
 }
