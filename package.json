@@ -20,6 +20,9 @@
     "express": "^4.16.4",
     "node-latex": "^2.4.4"
   },
+  "engines": {
+    "node": "10.13.0"
+  }
   "devDependencies": {},
   "keywords": []
 }
